@@ -1,6 +1,8 @@
 # frostbite-website
 Frostbite Ice Cream's website
 
+I was here!
+
 Workflow instructions
 1) Clone this repository to your local machine.
 2) Make your desired changes.
