@@ -24,6 +24,7 @@ jobs:
     steps:
       - name: Run a multi-line script
         run: |
-          cd /srv/www/frostbite
+          cd /var/www/statics/frostbite
+          git reset --hard
           git pull
           
